@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab9-3ea2e"
+  },
+  "targets": {
+    "lab9-3ea2e": {
+      "hosting": {
+        "q4": [
+          "lab9q4-1112"
+        ]
+      }
+    }
+  }
+}
